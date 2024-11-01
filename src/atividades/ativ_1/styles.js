@@ -3,13 +3,13 @@ import { RFValue } from 'react-native-responsive-fontsize';
 const styles = StyleSheet.create({
     container: {
        flex: 1,
-       backgroundColor: '#61ff76',
+       backgroundColor: '#f7020f',
        padding: 8,
     },
     titulo: {
         //fontSize: 20,
         fontSize: RFValue(20),
-        color: '#340fab',
+        color: '#fafafa',
     },
 });
 
