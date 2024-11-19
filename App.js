@@ -5,8 +5,7 @@ import Exemplo1 from './src/exemplos/ex_01';
 import Exemplo2 from './src/exemplos/ex_02';
 import Atividade1 from './src/atividades/ativ_1';
 import Atividade2 from './src/atividades/ativ_02';
-import Atividade2 from './src/atividades/ativ_03';
-import Atividade2 from './src/atividades/ativ_04';
+
 
 import Constants from 'expo-constants';
 

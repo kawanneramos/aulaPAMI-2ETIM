@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-import { RFValue } from 'react-native';
+import { RFValue } from 'react-native-responsive-fontsize';
 const styles = StyleSheet.create({ 
     texto: {
         fontSize: RFValue(20) , 
@@ -8,13 +8,12 @@ const styles = StyleSheet.create({
     idade: {
         fontSize: RFValue(20) , 
     }, 
-    idade: {
+    container: {
         marginBottom: RFValue(10) , 
         borderBottomWidth: RFValue(2) ,
         width: '100%',
         alignItems: 'center',
-    }, 
-
+    },  
 });
 
 export default styles;
